@@ -1,4 +1,4 @@
-# awesome-fpr-js
+# awesome-frp-js
 
 > A curated list of awesome functional reactive programming stuff in js
 
