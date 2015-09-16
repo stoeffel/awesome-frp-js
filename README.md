@@ -20,6 +20,12 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [learnrx](https://github.com/jhusain/learnrx) - Functional Programming in Javascript
 * [implementing snake in bacon.js](http://philipnilsson.github.io/badness/) - Practical introduction to FRP
 
+## Languages*
+
+* [elm](http://elm-lang.org/) - The best of functional programming in your browser
+
+\* – Languages with FRP built in. To land in this list they must compile to JavaScript and play well within a JS app.
+
 ## Contribution
 
 :star: Suggestions and PRs are welcome! :star:
