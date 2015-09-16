@@ -18,6 +18,8 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Resources
 
 * [learnrx](https://github.com/jhusain/learnrx) - Functional Programming in Javascript
+* [introrx](https://gist.github.com/staltz/868e7e9bc2a7b8c1f754) - The introduction to Reactive Programming you've been missing
+* [RX marbles](http://rxmarbles.com/) - Interactive diagrams of Rx Observables
 * [implementing snake in bacon.js](http://philipnilsson.github.io/badness/) - Practical introduction to FRP
 
 ## Contribution
