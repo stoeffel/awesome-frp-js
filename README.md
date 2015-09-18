@@ -1,4 +1,4 @@
-# awesome-frp-js
+# Awesome FRP JS
 
 > A curated list of awesome functional reactive programming stuff in js
 
@@ -32,7 +32,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 ## Related Lists
 
-* [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
+* [Awesome FP JS](https://github.com/stoeffel/awesome-fp-js)
 
 ## Contribution
 
