@@ -30,6 +30,10 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 
 \* – Languages with FRP built in. To land in this list they must compile to JavaScript and play well within a JS app.
 
+## Related Lists
+
+* [awesome-fp-js](https://github.com/stoeffel/awesome-fp-js)
+
 ## Contribution
 
 :star: Suggestions and PRs are welcome! :star:
