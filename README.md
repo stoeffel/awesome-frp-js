@@ -15,6 +15,11 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Kefir](https://github.com/pozadi/kefir) - Inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript
 
+## Books
+
+* [Reactive Programming with RxJS](https://pragprog.com/book/smreactjs/reactive-programming-with-rxjs) by [@sergi](https://github.com/sergi)
+
+
 ## Resources
 
 * [gtor](https://github.com/kriskowal/gtor) - A General Theory of Reactivity
