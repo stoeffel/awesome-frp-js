@@ -14,6 +14,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [most](https://github.com/cujojs/most) - Monadic streams for reactive programming
 * [Kefir](https://github.com/pozadi/kefir) - Inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript
+* [basic-streams](https://github.com/rpominov/basic-streams) - Experimental very basic reactive streams implementation for JavaScript, with Fantasy Land wrapper
 
 ## Books
 
