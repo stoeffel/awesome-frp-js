@@ -7,6 +7,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Libraries
 
 * [RxJS](https://github.com/Reactive-Extensions/RxJS) - The Reactive Extensions for JavaScript
+* [Lell](https://github.com/arkverse/lell) - Reactive State with no boilerplate. Init and subscribe! Built on Rx
 * [bacon.js](https://github.com/baconjs/bacon.js) - A small functional reactive programming lib for JavaScript.
 * [Highland](http://highlandjs.org/) - The high-level streams library for Node.js and the browser.
 * [radioactive](https://github.com/radioactive/radioactive) - The Missing Native Functional Reactive API for Javascript
