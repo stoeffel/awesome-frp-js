@@ -16,6 +16,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 * [Kefir](https://github.com/pozadi/kefir) - Inspired by Bacon.js and RxJS with focus on high performance and low memory consumption.
 * [flyd](https://github.com/paldepind/flyd) - The minimalistic but powerful, modular, functional reactive programming library in JavaScript
 * [basic-streams](https://github.com/rpominov/basic-streams) - Experimental very basic reactive streams implementation for JavaScript, with Fantasy Land wrapper
+* [zen-signals](https://github.com/joaomilho/zen-signals) - ☯ The simplest signal library possible
 
 ## Books
 
@@ -34,6 +35,7 @@ Inspired by the [awesome](https://github.com/sindresorhus/awesome) list thing.
 ## Languages*
 
 * [elm](http://elm-lang.org/) - The best of functional programming in your browser
+* [ion](https://github.com/ion-lang/ion) - no BS JS
 
 \* – Languages with FRP built in. To land in this list they must compile to JavaScript and play well within a JS app.
 
